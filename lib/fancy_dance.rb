@@ -18,7 +18,11 @@ module InstanceMethods
     end
   end
 
+module ClassMethods
 
+
+
+end
 
 
 end
